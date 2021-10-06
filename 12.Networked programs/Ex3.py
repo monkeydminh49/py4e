@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print('test')
-=======
 """
 Exercise 3: Use urllib to replicate the previous exercise of (1) retrieving
 the document from a URL, (2) displaying up to 3000 characters, and
@@ -25,4 +22,3 @@ except:
 received = fhand[:3000].decode()
 print(received)
 print(len(received))
->>>>>>> e16909eef0a87e24a11e94c2fdc876bfca988076
